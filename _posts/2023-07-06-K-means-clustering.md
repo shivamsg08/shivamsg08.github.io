@@ -8,6 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
+This is a demo post to show you how to write blog posts with markdown.
+
 
 # Clustering using K means Algorithm
 
