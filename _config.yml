@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Shivam Goyal Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Shivam Goyal
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "This is my repository of data science projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,13 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "shivamsg08.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: 
+  github: 
+  twitter: 
+  patreon: 
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
