@@ -20,7 +20,8 @@ author: Shivam Goyal
 ###############################################
 
 navbar-links:
-#  About Me: "This is my repository of data science projects"
+ About Me: aboutme.md
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
