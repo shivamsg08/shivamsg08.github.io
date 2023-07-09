@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-# title: Shivam Goyal Portfolio
+title: Shivam Goyal Portfolio
 
 # Your name to show in the footer
 author: Shivam Goyal
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/favicon.ico"
+# title-img: "/favicon.ico"
 
 
 #####################################
