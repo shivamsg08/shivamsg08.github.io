@@ -272,7 +272,7 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       support_promo_box: true
-      before-content: [support_promo_box.html]
+      # before-content: [support_promo_box.html]
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
