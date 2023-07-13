@@ -71,3 +71,24 @@
     }
   }
   
+
+  /* Support button in navbar */
+.navbar-custom .navbar-nav li a[href*="github.com/sponsors"],
+.author-site a {
+  color: hotpink;
+  text-decoration: none !important;
+  transition: background 300ms, color 300ms;
+}
+.navbar-custom .navbar-nav li a[href*="github.com/sponsors"]:hover,
+.author-site:hover a {
+  background: hotpink;
+  color: #3344bb;
+}
+.author-site a {
+  padding: 0.1875rem;
+}
+@media (min-width: 768px) {
+  .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
+    padding-right: 1rem;
+  }
+}
