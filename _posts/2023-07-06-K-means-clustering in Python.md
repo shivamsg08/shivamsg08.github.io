@@ -107,7 +107,7 @@ for ax, col in zip(axes, num):  # For each column...
 
 
     
-![png](output_10_0.png)
+![EDA charts]("/DataFiles/Posts/Clustering/Images/output_10_0.png")
     
 
 
@@ -127,7 +127,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![pic]("/DataFiles/Posts/Clustering/Images/output_12_0.png)
     
 
 
@@ -154,7 +154,7 @@ g.map(sns.scatterplot);
 
 
     
-![png](output_17_0.png)
+![output17]("/DataFiles/Posts/Clustering/Images/output_17_0.png)
     
 
 
