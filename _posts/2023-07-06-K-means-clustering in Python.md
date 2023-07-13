@@ -5,7 +5,6 @@ subtitle: Using jupyter notebook
 cover-img: /assets/img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-support_promo_box: true
 comments: true
 
 thumbnail-img: /assets/img/thumb.png
