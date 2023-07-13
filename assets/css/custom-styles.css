@@ -1,3 +1,20 @@
+/* Button - call-to-action */
+
+.btn-cta {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+  }
+  
+  .btn-cta:hover {
+    color: #fff;
+    background-color: #2568a1;
+    border-color: #2568a1;
+  }
+  .btn-cta:focus {
+    color: #fff;
+  }
+
 /* Promo box */
 
 #support-promo-section {
