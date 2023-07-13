@@ -284,7 +284,7 @@ defaults:
       path: ""
     values:
       layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
+      before-content: [support_promo_box.html]
 
 # Exclude these files from production site
 exclude:
