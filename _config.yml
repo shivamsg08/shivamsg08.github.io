@@ -277,7 +277,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      support_promo_box: true
+      # support_promo_box: true
       # before-content: [support_promo_box.html]
 
   # -
