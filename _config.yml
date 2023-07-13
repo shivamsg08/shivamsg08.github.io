@@ -278,6 +278,7 @@ defaults:
     values:
       layout: "page"
       # support_promo_box: true
+      before-content: [support_promo_box.html]
 
   # -
   #   scope:
