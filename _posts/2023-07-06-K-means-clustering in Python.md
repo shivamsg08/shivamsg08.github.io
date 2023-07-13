@@ -411,65 +411,8 @@ plt.ylabel('Within Cluster Sum of Squares (WCSS)')
 plt.show()
 ```
 
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
-
     
-![png](output_23_14.png)
+![png](/DataFiles/Posts/Clustering/Images/output_23_14.png)
     
 
 
@@ -493,7 +436,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](/DataFiles/Posts/Clustering/Images/output_24_0.png)
     
 
 
