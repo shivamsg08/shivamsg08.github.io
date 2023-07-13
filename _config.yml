@@ -277,6 +277,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      support_promo_box: true
 
 # Exclude these files from production site
 exclude:
