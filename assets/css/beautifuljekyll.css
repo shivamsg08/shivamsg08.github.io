@@ -976,7 +976,7 @@ pre {
 /* --- Misc blog post styles --- */
 
 .blog-post :first-child {
-  margin-top: 0;
+  margin-top: 20px;
 }
 
 .blog-post img {
