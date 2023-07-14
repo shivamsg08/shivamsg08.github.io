@@ -9,7 +9,7 @@ comments: true
 
 thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.png
 # share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Python, Machine Learning]
 ---
 
 This is a demo post to show you how to write blog posts with markdown.
