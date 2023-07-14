@@ -2,7 +2,7 @@
 layout: post
 title: K Means Clustering with Python
 subtitle: Using jupyter notebook
-cover-img: /assets/img/path.jpg
+cover-img: /DataFiles/Posts/Clustering/Images/clustering-algorithms-in-Machine-Learning.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
