@@ -7,8 +7,8 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
 
-thumbnail-img: /DataFiles/Posts/Clustering/Images/node2vec-community-based-a37e787ad92a97cd941a3284c8269c1c.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.png
+# share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
