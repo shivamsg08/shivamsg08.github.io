@@ -893,8 +893,8 @@ pre {
     rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
   background-size: auto 3em;
   background-position-y: 0.625rem;
-  border: 1px solid rgba(54, 58, 124, 0.1);
-  border-left: 0.4375rem solid #502fb3;
+  border: 1px solid rgba(186, 106, 106, 0.1);
+  border-left: 0.4375rem solid #444;
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
