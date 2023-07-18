@@ -1,13 +1,13 @@
 ---
 layout: post
-cover-img: /DataFiles/Posts/Clustering/Images/clustering-algorithms-in-Machine-Learning.jpg
+cover-img: /DataFiles/Posts/UoWRecruitment/Application-Fees-min.png
 title: University Recruitment Analysis
 subtitle: Analysing Data with PowerBI
 gh-repo: shivamsg08/University-Recruitment-Analysis
 gh-badge: [star, fork, follow]
 comments: true
 
-thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.png
+thumbnail-img: /DataFiles/Posts/UoWRecruitment/Applying-to-university-college.jpg
 # share-img: /assets/img/path.jpg
 tags: [Data Visualization, PowerBI]
 ---
