@@ -14,8 +14,7 @@ tags: [Python, Machine Learning]
 
 In this blog, we learn about the Auto Insurance Data and highutilize K Means clustering in Python to segment customers based on their transaction history. We will utilize these segments to futher understand customer traits and identify High value Customers. 
 
-# Clustering Auto Insurance Data using K means Algorithm"
-# Clustering using K means Algorithm
+# Clustering Auto Insurance Data using K means Algorithm
 
 **The provided dataset has lots of details :**
 
