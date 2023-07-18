@@ -14,9 +14,18 @@ tags: [Python, Machine Learning]
 
 In this blog, we learn about the Auto Insurance Data and highutilize K Means clustering in Python to segment customers based on their transaction history. We will utilize these segments to futher understand customer traits and identify High value Customers. 
 
-
+# Clustering Auto Insurance Data using K means Algorithm"
 # Clustering using K means Algorithm
 
+**The provided dataset has lots of details :**
+
+- There are 9134 Observations of 24 Variable
+- There are mix of categorical and continous DataType.
+- Dependent Variable is Customer Life Time Value as we have to predict the CLV.
+- Independent Variables are: Customer, StateCustomerLifetimeValue, Response, Coverage, Education, EffectiveToDate, EmploymentStatus, Gender, Income, LocationCode, MaritalStatus, MonthlyPremiumAuto, MonthsSinceLastClaim, MonthsSincePolicyInception, NumberofOpenComplaints, NumberofPoliciesPolicyType, Policy, RenewOfferType, SalesChannel, TotalClaimAmountVehicleClass, VehicleSize
+- Continues Independed Variables are : CustomerLifetimeValue, Income,MonthlyPremiumAuto, MonthsSinceLastClaim, MonthsSincePolicyInception, NumberofOpenComplaints, NumberofPolicies, TotalClaimAmount
+- There are no null values, so no further action required to replace missing or null values.
+- “Customer” column is serial number so it is insignificat for analysis and removed from the dataset.
 
 ### Importing the libraries
 
