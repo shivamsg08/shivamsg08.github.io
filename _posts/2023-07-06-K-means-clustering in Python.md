@@ -1,9 +1,9 @@
 ---
 layout: post
 cover-img: /DataFiles/Posts/Clustering/Images/clustering-algorithms-in-Machine-Learning.jpg
-title: K Means Clustering with Python
-subtitle: Using jupyter notebook
-gh-repo: daattali/beautiful-jekyll
+title: Auto Insurance Customer Segmentation
+subtitle: K Means Clustering with Python
+gh-repo: shivamsg08/Clustering
 gh-badge: [star, fork, follow]
 comments: true
 
@@ -12,16 +12,11 @@ thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.p
 tags: [Python, Machine Learning]
 ---
 
-This is a demo post to show you how to write blog posts with markdown.
+In this blog, we learn about the Auto Insurance Data and highutilize K Means clustering in Python to segment customers based on their transaction history. We will utilize these segments to futher understand customer traits and identify High value Customers. 
 
 
 # Clustering using K means Algorithm
 
-@ Author : Shivam Goyal
-
-Date : 9 January, 2022
-
-Version 1
 
 ### Importing the libraries
 
