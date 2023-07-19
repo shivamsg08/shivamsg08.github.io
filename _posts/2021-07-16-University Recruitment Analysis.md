@@ -2,6 +2,7 @@
 layout: post
 cover-img: /DataFiles/Posts/UoWRecruitment/Application-Fees-min.png
 title: Domestic Student University Recruitment Analysis
+subtitle: Offer Conversion using PowerBI
 gh-repo: shivamsg08/University-Recruitment-Analysis
 gh-badge: [star, fork, follow]
 comments: true
