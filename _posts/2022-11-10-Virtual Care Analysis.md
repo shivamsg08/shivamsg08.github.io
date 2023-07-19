@@ -7,7 +7,7 @@ gh-repo: shivamsg08/Clustering
 gh-badge: [star, fork, follow]
 comments: true
 
-thumbnail-img: /DataFiles/Posts/VirtualHealthcare/VC Header.jpg
+thumbnail-img: /DataFiles/Posts/VirtualHealthcare/virtual-care-735x400-1.jpg
 # share-img: /assets/img/path.jpg
 tags: [Python, Univariate Forecasting, Linear Regression]
 ---
