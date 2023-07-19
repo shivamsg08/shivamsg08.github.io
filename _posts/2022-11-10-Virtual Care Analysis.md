@@ -14,7 +14,6 @@ tags: [Python, Univariate Forecasting, Linear Regression]
 
 The New Brunswick Department of Health, Health Analytics branch, fosters the strategic use of information and analytics to inform decision making as it relates to the Department’s mandate of planning, funding and monitoring a high quality & sustainable health system for the citizens of New Brunswick.
 
-![image.png](attachment:image.png)
 
 # Virtual Care Utilization
 
