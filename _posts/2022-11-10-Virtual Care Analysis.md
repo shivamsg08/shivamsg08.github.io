@@ -1,7 +1,7 @@
 ---
 layout: post
 cover-img: /DataFiles/Posts/VirtualHealthcare/1_6069795.jpg
-title: Virtual Care Adoption in New Brunswick
+title: Virtual Health Care Adoption in New Brunswick
 subtitle: Descriptive Analysis and Post Covid Prediction
 gh-repo: shivamsg08/Virtual-Healthcare
 gh-badge: [star, fork, follow]
