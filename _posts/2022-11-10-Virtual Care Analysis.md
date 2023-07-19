@@ -421,7 +421,7 @@ df.groupby(['Year'])['Physician Gender'].count().reset_index()
 </table>
 </div>
 
-
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/eeaf1da5-08a0-446b-951c-31fa838cdabe)
 
 
 ```python
@@ -431,7 +431,7 @@ pd.pivot_table(df, values='Number of Visits', index=['Year', 'Month'],
 
 
 ```
-
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/184ba282-c145-4721-8a1d-69ee7a247e46)
 
 ```python
 # Visits Across Patient Health Zone
@@ -442,6 +442,7 @@ pd.pivot_table(df[(df['Year']==2020) | (df['Year']==2021)],
 
 
 ```
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/84b59c94-8748-40f8-b605-0e45b3451cb0)
 
 
 ```python
@@ -453,7 +454,7 @@ pd.pivot_table(df[(df['Year']==2020) | (df['Year']==2021)],
 
 
 ```
-
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/471ef7d9-3366-4122-a1d6-a111b7cda668)
 
 ```python
 # Visits Across Patient Gender
@@ -463,7 +464,7 @@ pd.pivot_table(df[(df['Year']==2020) | (df['Year']==2021)],
                aggfunc=np.sum).reset_index().to_csv("VisitsPatientGender.csv",index = False)
 
 ```
-
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/2f453173-8c44-4ace-8e47-a4e300a1d8ab)
 
 ```python
 # Visits Across Physician Gender
@@ -474,6 +475,7 @@ pd.pivot_table(df[(df['Year']==2020) | (df['Year']==2021)],
 
 ```
 
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/d6a01966-7c2c-40c5-b22d-c846bc85b5fc)
 
 ```python
 # Visits Across Patient Age Group
@@ -483,6 +485,7 @@ pd.pivot_table(df[(df['Year']==2020) | (df['Year']==2021)],
                aggfunc=np.sum).reset_index().to_csv("VisitsPatientAgeGroup.csv",index = False)
 
 ```
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/cbb15e89-f57a-4676-8d05-9686cd7cb7d9)
 
 
 ```python
@@ -977,4 +980,6 @@ regr.score(x_test,y_test)
 
     0.11132790904846412
 
+## Final Selected Model Prediction
 
+![image](https://github.com/shivamsg08/Virtual-Healthcare/assets/8438005/1da32400-7220-4573-9900-5d656cfd657b)
