@@ -1,13 +1,13 @@
 ---
 layout: post
-cover-img: /DataFiles/Posts/Clustering/Images/clustering-algorithms-in-Machine-Learning.jpg
+cover-img: /DataFiles/Posts/VirtualHealthcare/1_6069795.jpg
 title: Virtual Care Adoption in New Brunswick
 subtitle: Descriptive Analysis and Post Covid Prediction
 gh-repo: shivamsg08/Clustering
 gh-badge: [star, fork, follow]
 comments: true
 
-thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.png
+thumbnail-img: /DataFiles/Posts/VirtualHealthcare/Mask-Group-5.png
 # share-img: /assets/img/path.jpg
 tags: [Python, Machine Learning]
 ---
