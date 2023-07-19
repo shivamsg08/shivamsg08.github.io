@@ -1,8 +1,22 @@
+---
+layout: post
+cover-img: /DataFiles/Posts/Clustering/Images/clustering-algorithms-in-Machine-Learning.jpg
+title: Virtual Care Adoption in New Brunswick
+subtitle: Descriptive Analysis and Post Covid Prediction
+gh-repo: shivamsg08/Clustering
+gh-badge: [star, fork, follow]
+comments: true
+
+thumbnail-img: /DataFiles/Posts/Clustering/Images/K-Means_Clustering_Algorithm.png
+# share-img: /assets/img/path.jpg
+tags: [Python, Machine Learning]
+---
+
+The New Brunswick Department of Health, Health Analytics branch, fosters the strategic use of information and analytics to inform decision making as it relates to the Department’s mandate of planning, funding and monitoring a high quality & sustainable health system for the citizens of New Brunswick.
+
 ![image.png](attachment:image.png)
 
 # Virtual Care Utilization
-
-The New Brunswick Department of Health, Health Analytics branch, fosters the strategic use of information and analytics to inform decision making as it relates to the Department’s mandate of planning, funding and monitoring a high quality & sustainable health system for the citizens of New Brunswick.
 
 # About the Data
 
@@ -785,7 +799,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_33_0.png)
     
 
 
@@ -828,37 +842,37 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_0.png)
     
 
 
 
     
-![png](output_36_1.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_1.png)
     
 
 
 
     
-![png](output_36_2.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_2.png)
     
 
 
 
     
-![png](output_36_3.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_3.png)
     
 
 
 
     
-![png](output_36_4.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_4.png)
     
 
 
 
     
-![png](output_36_5.png)
+![png](/DataFiles/Posts/VirtualHealthcare/output_36_5.png)
     
 
 
