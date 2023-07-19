@@ -7,9 +7,9 @@ gh-repo: shivamsg08/Clustering
 gh-badge: [star, fork, follow]
 comments: true
 
-thumbnail-img: /DataFiles/Posts/VirtualHealthcare/Mask-Group-5.png
+thumbnail-img: /DataFiles/Posts/VirtualHealthcare/VC Header.jpg
 # share-img: /assets/img/path.jpg
-tags: [Python, Machine Learning]
+tags: [Python, Univariate Forecasting, Linear Regression]
 ---
 
 The New Brunswick Department of Health, Health Analytics branch, fosters the strategic use of information and analytics to inform decision making as it relates to the Department’s mandate of planning, funding and monitoring a high quality & sustainable health system for the citizens of New Brunswick.
